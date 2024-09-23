@@ -1,0 +1,27 @@
+{
+  "name": "whatsapp-lambda",
+  "version": "1.0.0",
+  "description": "Whatsapp notification group solution",
+  "main": "index.js",
+  "dependencies": {
+    "aws-sdk": "^2.1691.0",
+    "twilio": "^5.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jveinti2/whatsapp-lambda.git"
+  },
+  "keywords": [
+    "aws"
+  ],
+  "author": "jhonatan becerra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jveinti2/whatsapp-lambda/issues"
+  },
+  "homepage": "https://github.com/jveinti2/whatsapp-lambda#readme"
+}
